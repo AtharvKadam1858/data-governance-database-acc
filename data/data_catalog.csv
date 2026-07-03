@@ -1,0 +1,31 @@
+table_id,table_name,department,source_system,data_owner,data_steward,record_count,last_refresh_date,data_classification,contains_sensitive_data
+1,it_table_1,IT,CRM System,IT Manager,IT Data Steward,11556,2026-07-01,Confidential,Yes
+2,marketing_table_2,Marketing,ERP System,Marketing Head,Marketing Data Steward,198061,2026-06-22,Public,Yes
+3,operations_table_3,Operations,Finance System,Operations Manager,Operations Data Steward,13331,2026-06-26,Public,Yes
+4,marketing_table_4,Marketing,ERP System,Marketing Head,Marketing Data Steward,137475,2026-06-18,Public,Yes
+5,it_table_5,IT,Inventory System,IT Manager,IT Data Steward,188848,2026-06-14,Restricted,Yes
+6,hr_table_6,HR,Marketing Platform,HR Manager,HR Data Steward,77926,2026-06-19,Public,Yes
+7,it_table_7,IT,Finance System,IT Manager,IT Data Steward,94194,2026-06-16,Confidential,Yes
+8,marketing_table_8,Marketing,HRMS System,Marketing Head,Marketing Data Steward,31793,2026-06-09,Public,No
+9,sales_table_9,Sales,HRMS System,Sales Head,Sales Data Steward,227165,2026-06-20,Confidential,No
+10,data_analytics_table_10,Data Analytics,CRM System,Analytics Manager,Analytics Data Steward,196294,2026-06-25,Restricted,Yes
+11,hr_table_11,HR,CRM System,HR Manager,HR Data Steward,149714,2026-06-07,Confidential,No
+12,operations_table_12,Operations,ERP System,Operations Manager,Operations Data Steward,189699,2026-06-08,Public,Yes
+13,it_table_13,IT,ERP System,IT Manager,IT Data Steward,207655,2026-06-29,Confidential,Yes
+14,data_analytics_table_14,Data Analytics,ERP System,Analytics Manager,Analytics Data Steward,232143,2026-06-03,Public,No
+15,finance_table_15,Finance,Finance System,Finance Manager,Finance Data Steward,171640,2026-06-13,Confidential,Yes
+16,finance_table_16,Finance,HRMS System,Finance Manager,Finance Data Steward,59921,2026-06-14,Confidential,Yes
+17,operations_table_17,Operations,Inventory System,Operations Manager,Operations Data Steward,49862,2026-06-09,Internal,Yes
+18,hr_table_18,HR,Finance System,HR Manager,HR Data Steward,75765,2026-06-06,Internal,No
+19,data_analytics_table_19,Data Analytics,CRM System,Analytics Manager,Analytics Data Steward,65043,2026-06-17,Public,No
+20,hr_table_20,HR,HRMS System,HR Manager,HR Data Steward,22350,2026-06-14,Internal,No
+21,marketing_table_21,Marketing,Inventory System,Marketing Head,Marketing Data Steward,135870,2026-06-14,Restricted,No
+22,marketing_table_22,Marketing,HRMS System,Marketing Head,Marketing Data Steward,41603,2026-06-07,Internal,No
+23,it_table_23,IT,Marketing Platform,IT Manager,IT Data Steward,117311,2026-06-12,Restricted,No
+24,marketing_table_24,Marketing,ERP System,Marketing Head,Marketing Data Steward,138569,2026-06-22,Restricted,Yes
+25,data_analytics_table_25,Data Analytics,CRM System,Analytics Manager,Analytics Data Steward,230732,2026-06-08,Public,Yes
+26,it_table_26,IT,ERP System,IT Manager,IT Data Steward,212638,2026-06-04,Restricted,Yes
+27,hr_table_27,HR,Finance System,HR Manager,HR Data Steward,161208,2026-06-16,Restricted,No
+28,operations_table_28,Operations,CRM System,Operations Manager,Operations Data Steward,183332,2026-06-21,Public,No
+29,data_analytics_table_29,Data Analytics,Inventory System,Analytics Manager,Analytics Data Steward,94174,2026-06-21,Public,No
+30,hr_table_30,HR,ERP System,HR Manager,HR Data Steward,123940,2026-06-16,Public,No

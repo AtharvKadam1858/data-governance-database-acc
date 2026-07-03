@@ -1,0 +1,101 @@
+issue_id,table_id,issue_type,severity,issue_status,reported_date,assigned_to
+1,22,Outdated Data,Medium,In Progress,2026-06-06,Finance Data Steward
+2,2,Duplicate Data,Medium,In Progress,2026-05-06,Sales Data Steward
+3,7,Invalid Data,Critical,Resolved,2026-06-14,Analytics Data Steward
+4,9,Invalid Data,Medium,Open,2026-04-27,IT Data Steward
+5,14,Duplicate Data,Low,In Progress,2026-06-20,Marketing Data Steward
+6,17,Missing Data Owner,High,Resolved,2026-05-01,Sales Data Steward
+7,13,Access Control Issue,High,In Progress,2026-04-09,HR Data Steward
+8,30,Missing Data,High,In Progress,2026-06-24,Operations Data Steward
+9,13,Outdated Data,Medium,Open,2026-04-27,HR Data Steward
+10,1,Invalid Data,Low,Resolved,2026-03-14,HR Data Steward
+11,27,Outdated Data,Critical,Open,2026-06-15,Analytics Data Steward
+12,4,Duplicate Data,Medium,In Progress,2026-04-24,Sales Data Steward
+13,13,Access Control Issue,Medium,Open,2026-04-29,Finance Data Steward
+14,25,Duplicate Data,Low,In Progress,2026-07-02,Operations Data Steward
+15,17,Duplicate Data,Critical,Open,2026-06-15,IT Data Steward
+16,27,Outdated Data,High,Open,2026-05-20,Marketing Data Steward
+17,9,Duplicate Data,Low,Open,2026-06-24,Analytics Data Steward
+18,21,Missing Data,Low,Resolved,2026-05-02,HR Data Steward
+19,15,Access Control Issue,Medium,In Progress,2026-06-09,IT Data Steward
+20,30,Missing Data Owner,Medium,Resolved,2026-06-08,Finance Data Steward
+21,28,Outdated Data,Medium,In Progress,2026-04-28,HR Data Steward
+22,15,Outdated Data,Medium,Open,2026-03-11,Sales Data Steward
+23,12,Missing Data Owner,Low,In Progress,2026-06-14,Sales Data Steward
+24,2,Invalid Data,High,Open,2026-06-25,Analytics Data Steward
+25,28,Missing Data,Medium,In Progress,2026-03-05,HR Data Steward
+26,19,Missing Data Owner,Critical,Resolved,2026-03-08,Sales Data Steward
+27,15,Access Control Issue,Medium,Open,2026-06-06,Operations Data Steward
+28,16,Missing Data Owner,Low,Open,2026-06-05,Sales Data Steward
+29,26,Access Control Issue,Medium,Resolved,2026-03-20,Operations Data Steward
+30,21,Duplicate Data,Low,Resolved,2026-07-01,HR Data Steward
+31,17,Missing Data Owner,Medium,In Progress,2026-04-13,Finance Data Steward
+32,13,Sensitive Data Exposure,High,Resolved,2026-04-27,Sales Data Steward
+33,26,Outdated Data,Medium,Open,2026-06-19,Sales Data Steward
+34,18,Outdated Data,Medium,Open,2026-03-05,Analytics Data Steward
+35,22,Missing Data Owner,High,Open,2026-06-15,Operations Data Steward
+36,22,Duplicate Data,Critical,Open,2026-04-30,IT Data Steward
+37,23,Outdated Data,Medium,In Progress,2026-05-17,Sales Data Steward
+38,10,Missing Data Owner,Medium,Resolved,2026-05-10,Analytics Data Steward
+39,5,Outdated Data,High,Resolved,2026-03-29,IT Data Steward
+40,30,Missing Data Owner,Low,Resolved,2026-06-03,Operations Data Steward
+41,12,Missing Data,Medium,Open,2026-04-18,Marketing Data Steward
+42,11,Access Control Issue,Medium,Open,2026-05-02,Marketing Data Steward
+43,5,Missing Data,Low,Resolved,2026-03-21,Operations Data Steward
+44,25,Missing Data Owner,High,Resolved,2026-06-21,Sales Data Steward
+45,22,Invalid Data,High,In Progress,2026-04-02,Operations Data Steward
+46,13,Duplicate Data,Low,Resolved,2026-06-17,Analytics Data Steward
+47,20,Access Control Issue,Critical,Resolved,2026-05-13,Sales Data Steward
+48,14,Invalid Data,High,Open,2026-06-03,HR Data Steward
+49,20,Invalid Data,High,Resolved,2026-06-28,Marketing Data Steward
+50,18,Duplicate Data,Medium,Resolved,2026-04-08,HR Data Steward
+51,29,Access Control Issue,Low,Resolved,2026-03-16,Operations Data Steward
+52,15,Sensitive Data Exposure,High,Resolved,2026-06-20,Operations Data Steward
+53,17,Sensitive Data Exposure,Critical,Resolved,2026-03-05,Analytics Data Steward
+54,20,Duplicate Data,High,Open,2026-05-28,HR Data Steward
+55,28,Invalid Data,Medium,Open,2026-04-02,Analytics Data Steward
+56,17,Access Control Issue,Low,Open,2026-06-01,Marketing Data Steward
+57,9,Sensitive Data Exposure,Critical,Open,2026-03-08,HR Data Steward
+58,3,Duplicate Data,High,Resolved,2026-05-21,Sales Data Steward
+59,14,Missing Data,Medium,In Progress,2026-04-24,HR Data Steward
+60,3,Invalid Data,Low,Open,2026-06-16,Sales Data Steward
+61,27,Outdated Data,Medium,Resolved,2026-03-15,Marketing Data Steward
+62,2,Invalid Data,Critical,In Progress,2026-06-16,Analytics Data Steward
+63,5,Access Control Issue,High,In Progress,2026-05-29,Sales Data Steward
+64,29,Missing Data,Low,Open,2026-04-23,Marketing Data Steward
+65,18,Outdated Data,Medium,In Progress,2026-03-27,Analytics Data Steward
+66,10,Duplicate Data,Medium,Open,2026-05-12,HR Data Steward
+67,21,Access Control Issue,Medium,Open,2026-06-24,Analytics Data Steward
+68,29,Sensitive Data Exposure,Medium,Open,2026-05-19,Operations Data Steward
+69,19,Duplicate Data,High,Open,2026-04-27,Sales Data Steward
+70,20,Invalid Data,Low,In Progress,2026-06-03,IT Data Steward
+71,22,Missing Data,Medium,In Progress,2026-03-16,Operations Data Steward
+72,18,Missing Data Owner,High,In Progress,2026-05-19,Sales Data Steward
+73,13,Access Control Issue,Medium,In Progress,2026-06-08,Finance Data Steward
+74,9,Outdated Data,Low,Resolved,2026-03-18,Finance Data Steward
+75,8,Outdated Data,High,Open,2026-03-21,Operations Data Steward
+76,24,Access Control Issue,Medium,Open,2026-05-03,Operations Data Steward
+77,11,Access Control Issue,Medium,Resolved,2026-04-13,IT Data Steward
+78,15,Outdated Data,Medium,Open,2026-05-21,Marketing Data Steward
+79,3,Outdated Data,High,In Progress,2026-04-30,Finance Data Steward
+80,7,Missing Data,High,Resolved,2026-04-09,Finance Data Steward
+81,30,Invalid Data,Medium,Resolved,2026-03-27,Operations Data Steward
+82,16,Invalid Data,Low,In Progress,2026-03-23,Finance Data Steward
+83,12,Access Control Issue,High,Resolved,2026-05-02,Finance Data Steward
+84,9,Missing Data,High,In Progress,2026-05-19,HR Data Steward
+85,24,Sensitive Data Exposure,High,In Progress,2026-05-16,Marketing Data Steward
+86,16,Outdated Data,Medium,Resolved,2026-05-13,Operations Data Steward
+87,9,Access Control Issue,Low,In Progress,2026-05-20,HR Data Steward
+88,20,Access Control Issue,Low,Open,2026-03-05,Sales Data Steward
+89,3,Invalid Data,High,Open,2026-03-28,Operations Data Steward
+90,23,Sensitive Data Exposure,Low,In Progress,2026-06-05,HR Data Steward
+91,2,Outdated Data,High,In Progress,2026-04-02,HR Data Steward
+92,9,Outdated Data,Critical,Resolved,2026-05-28,Sales Data Steward
+93,22,Outdated Data,Medium,In Progress,2026-05-09,IT Data Steward
+94,22,Duplicate Data,Critical,Open,2026-04-08,Operations Data Steward
+95,22,Access Control Issue,Medium,Open,2026-04-27,Marketing Data Steward
+96,25,Outdated Data,Medium,In Progress,2026-05-02,Operations Data Steward
+97,2,Missing Data Owner,Low,In Progress,2026-04-12,Finance Data Steward
+98,12,Sensitive Data Exposure,High,In Progress,2026-04-22,Operations Data Steward
+99,12,Sensitive Data Exposure,Medium,Open,2026-06-05,Sales Data Steward
+100,1,Outdated Data,Low,In Progress,2026-06-15,Operations Data Steward

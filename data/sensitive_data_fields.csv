@@ -1,0 +1,121 @@
+field_id,table_id,field_name,sensitivity_type,encryption_status,access_level,retention_policy_days,compliance_status
+1,18,PAN Number,Financial,Not Encrypted,Internal,1825,Review Required
+2,26,Customer Name,PII,Encrypted,Confidential,730,Review Required
+3,23,PAN Number,Financial,Not Encrypted,Internal,2555,Review Required
+4,16,Salary,Confidential,Not Encrypted,Internal,2555,Review Required
+5,12,Date of Birth,PII,Not Encrypted,Confidential,1095,Compliant
+6,4,PAN Number,Financial,Not Encrypted,Restricted,2555,Non-Compliant
+7,6,PAN Number,Financial,Encrypted,Internal,1825,Review Required
+8,24,Bank Account Number,Financial,Encrypted,Restricted,1095,Compliant
+9,12,Phone Number,PII,Not Encrypted,Restricted,2555,Compliant
+10,9,Customer Name,PII,Encrypted,Internal,1095,Non-Compliant
+11,5,Date of Birth,PII,Encrypted,Restricted,2555,Review Required
+12,16,Date of Birth,PII,Not Encrypted,Confidential,730,Compliant
+13,9,Date of Birth,PII,Encrypted,Restricted,1825,Review Required
+14,3,Customer Name,PII,Encrypted,Restricted,2555,Review Required
+15,3,PAN Number,Financial,Encrypted,Internal,1825,Non-Compliant
+16,20,PAN Number,Financial,Not Encrypted,Confidential,1825,Review Required
+17,28,Employee ID,Confidential,Not Encrypted,Internal,2555,Compliant
+18,20,Email Address,PII,Encrypted,Internal,730,Review Required
+19,22,Email Address,PII,Encrypted,Restricted,730,Non-Compliant
+20,3,Phone Number,PII,Encrypted,Confidential,1825,Non-Compliant
+21,20,Date of Birth,PII,Not Encrypted,Restricted,730,Review Required
+22,23,Bank Account Number,Financial,Not Encrypted,Restricted,730,Review Required
+23,26,PAN Number,Financial,Not Encrypted,Restricted,2555,Compliant
+24,21,Phone Number,PII,Not Encrypted,Restricted,365,Compliant
+25,6,Bank Account Number,Financial,Not Encrypted,Confidential,365,Review Required
+26,23,Bank Account Number,Financial,Not Encrypted,Confidential,2555,Non-Compliant
+27,16,Date of Birth,PII,Encrypted,Internal,365,Review Required
+28,24,Salary,Confidential,Not Encrypted,Restricted,365,Compliant
+29,22,Customer Name,PII,Not Encrypted,Internal,365,Compliant
+30,16,Date of Birth,PII,Not Encrypted,Restricted,2555,Review Required
+31,21,Date of Birth,PII,Encrypted,Confidential,1095,Review Required
+32,11,Salary,Confidential,Encrypted,Restricted,1095,Review Required
+33,23,Date of Birth,PII,Not Encrypted,Internal,1825,Non-Compliant
+34,2,Date of Birth,PII,Encrypted,Confidential,1095,Review Required
+35,4,Employee ID,Confidential,Encrypted,Internal,2555,Review Required
+36,14,Customer Name,PII,Encrypted,Internal,1095,Non-Compliant
+37,25,Date of Birth,PII,Not Encrypted,Restricted,730,Review Required
+38,18,Phone Number,PII,Not Encrypted,Confidential,1825,Compliant
+39,1,PAN Number,Financial,Encrypted,Confidential,2555,Compliant
+40,18,Employee ID,Confidential,Encrypted,Restricted,365,Review Required
+41,4,Phone Number,PII,Not Encrypted,Internal,1095,Non-Compliant
+42,23,Bank Account Number,Financial,Not Encrypted,Confidential,1825,Compliant
+43,15,Phone Number,PII,Not Encrypted,Restricted,2555,Non-Compliant
+44,24,Phone Number,PII,Encrypted,Confidential,1825,Review Required
+45,30,Bank Account Number,Financial,Encrypted,Confidential,1095,Non-Compliant
+46,19,Date of Birth,PII,Encrypted,Confidential,2555,Review Required
+47,12,Salary,Confidential,Not Encrypted,Confidential,1095,Compliant
+48,23,PAN Number,Financial,Not Encrypted,Restricted,1825,Compliant
+49,11,Date of Birth,PII,Not Encrypted,Confidential,730,Review Required
+50,2,Phone Number,PII,Not Encrypted,Restricted,1825,Compliant
+51,17,Date of Birth,PII,Encrypted,Internal,730,Review Required
+52,28,Phone Number,PII,Encrypted,Confidential,1095,Review Required
+53,20,Employee ID,Confidential,Encrypted,Confidential,2555,Review Required
+54,11,Date of Birth,PII,Encrypted,Internal,365,Compliant
+55,21,Bank Account Number,Financial,Encrypted,Internal,365,Review Required
+56,4,Email Address,PII,Not Encrypted,Restricted,1095,Compliant
+57,2,Salary,Confidential,Encrypted,Confidential,1095,Review Required
+58,14,Phone Number,PII,Encrypted,Internal,1825,Non-Compliant
+59,22,Phone Number,PII,Encrypted,Restricted,365,Non-Compliant
+60,28,Employee ID,Confidential,Encrypted,Confidential,2555,Compliant
+61,8,Date of Birth,PII,Not Encrypted,Confidential,1095,Non-Compliant
+62,1,Date of Birth,PII,Not Encrypted,Internal,2555,Compliant
+63,3,Date of Birth,PII,Not Encrypted,Internal,1095,Non-Compliant
+64,14,Bank Account Number,Financial,Not Encrypted,Confidential,730,Review Required
+65,28,Date of Birth,PII,Encrypted,Restricted,1825,Non-Compliant
+66,12,Bank Account Number,Financial,Not Encrypted,Restricted,1825,Review Required
+67,1,Customer Name,PII,Not Encrypted,Confidential,730,Non-Compliant
+68,26,Salary,Confidential,Encrypted,Internal,730,Non-Compliant
+69,9,Phone Number,PII,Encrypted,Internal,365,Review Required
+70,26,Date of Birth,PII,Encrypted,Internal,1095,Non-Compliant
+71,5,Email Address,PII,Not Encrypted,Confidential,1825,Compliant
+72,7,Phone Number,PII,Not Encrypted,Internal,2555,Review Required
+73,27,Phone Number,PII,Not Encrypted,Confidential,1095,Non-Compliant
+74,28,Salary,Confidential,Encrypted,Confidential,365,Compliant
+75,25,PAN Number,Financial,Not Encrypted,Internal,1095,Compliant
+76,26,Employee ID,Confidential,Encrypted,Confidential,2555,Compliant
+77,15,Salary,Confidential,Not Encrypted,Internal,1825,Non-Compliant
+78,12,Email Address,PII,Encrypted,Confidential,365,Non-Compliant
+79,29,Salary,Confidential,Encrypted,Internal,365,Non-Compliant
+80,27,Date of Birth,PII,Not Encrypted,Internal,1825,Compliant
+81,5,Customer Name,PII,Encrypted,Confidential,1825,Compliant
+82,4,PAN Number,Financial,Encrypted,Confidential,1825,Review Required
+83,22,Employee ID,Confidential,Encrypted,Confidential,365,Review Required
+84,20,Employee ID,Confidential,Not Encrypted,Restricted,1095,Compliant
+85,15,Date of Birth,PII,Encrypted,Confidential,365,Non-Compliant
+86,12,Salary,Confidential,Encrypted,Confidential,1095,Compliant
+87,4,Date of Birth,PII,Encrypted,Internal,730,Non-Compliant
+88,21,Customer Name,PII,Encrypted,Confidential,730,Compliant
+89,26,PAN Number,Financial,Encrypted,Internal,730,Non-Compliant
+90,7,PAN Number,Financial,Not Encrypted,Restricted,2555,Compliant
+91,9,Phone Number,PII,Encrypted,Internal,1095,Compliant
+92,4,Customer Name,PII,Encrypted,Restricted,1095,Compliant
+93,19,Salary,Confidential,Encrypted,Restricted,1095,Compliant
+94,5,Employee ID,Confidential,Encrypted,Internal,365,Review Required
+95,15,Salary,Confidential,Encrypted,Confidential,2555,Compliant
+96,20,Customer Name,PII,Not Encrypted,Confidential,365,Compliant
+97,16,Employee ID,Confidential,Not Encrypted,Internal,365,Review Required
+98,23,Date of Birth,PII,Encrypted,Restricted,1095,Non-Compliant
+99,5,Email Address,PII,Encrypted,Confidential,2555,Non-Compliant
+100,19,Salary,Confidential,Not Encrypted,Internal,2555,Review Required
+101,15,Employee ID,Confidential,Encrypted,Internal,365,Non-Compliant
+102,21,PAN Number,Financial,Not Encrypted,Confidential,730,Review Required
+103,11,Date of Birth,PII,Not Encrypted,Confidential,365,Review Required
+104,14,Salary,Confidential,Not Encrypted,Confidential,730,Non-Compliant
+105,30,Date of Birth,PII,Encrypted,Restricted,365,Compliant
+106,14,Email Address,PII,Not Encrypted,Restricted,2555,Compliant
+107,19,Salary,Confidential,Encrypted,Confidential,1095,Non-Compliant
+108,25,Employee ID,Confidential,Encrypted,Confidential,2555,Review Required
+109,12,Email Address,PII,Encrypted,Restricted,1825,Compliant
+110,28,Email Address,PII,Not Encrypted,Internal,1095,Compliant
+111,25,Bank Account Number,Financial,Encrypted,Confidential,2555,Non-Compliant
+112,20,Customer Name,PII,Not Encrypted,Restricted,730,Review Required
+113,23,Bank Account Number,Financial,Not Encrypted,Confidential,365,Compliant
+114,28,Phone Number,PII,Not Encrypted,Restricted,730,Non-Compliant
+115,21,Customer Name,PII,Encrypted,Internal,2555,Compliant
+116,13,Employee ID,Confidential,Not Encrypted,Confidential,730,Review Required
+117,10,Salary,Confidential,Encrypted,Restricted,730,Compliant
+118,25,Customer Name,PII,Encrypted,Confidential,1825,Non-Compliant
+119,14,Date of Birth,PII,Not Encrypted,Confidential,1095,Compliant
+120,25,Email Address,PII,Not Encrypted,Confidential,365,Review Required
